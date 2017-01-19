@@ -1,2 +1,3 @@
 # hello-wolrd
 Hello world with GitHub 
+Hey! I'm a student learning about js angular and git.. We'll see how it goes...
